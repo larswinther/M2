@@ -1,4 +1,4 @@
-newPackage ( "CodepthThree",
+newPackage ( "CodepthThree"
     Version => "1.0",
     Date => "25 June 2014",
     Authors => {
